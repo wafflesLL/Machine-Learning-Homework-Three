@@ -28,9 +28,3 @@ Dr. Santos
 4. Select the best-performing model and justify your selection.
 5. When explaining your design choices, include performance visualizations and evaluation results such as loss curves, accuracy metrics, and confusion matrices.
 6. Submit your solution to Kaggle and report on your ranking
-## Task 3
-1. Plot PCA EVR curves
-2. Compare new results against the corresponding model previous results. E.g., Full Dataset + MLP vs Compressed Dataset + MLP
-3. Compare Logistic Regression, Random Forest and MLP compressed dataset performances.
-4. Use visualizations and evaluation results to justify your claims.
-5. Submit your top model to Kaggle and report on your final test score and ranking.
